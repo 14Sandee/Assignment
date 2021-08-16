@@ -77,7 +77,7 @@
     margin-bottom: 10px;
 }
 .forminput{
-    padding: 10px 10px;
+    padding: 12px 10px;
     background-color: #fff;
     color: rgb(240, 240, 240) !important;
     outline: none;
@@ -97,4 +97,29 @@ button{
     color: #fff;
     border-radius: 2px;
     cursor: pointer;
+}
+
+@media (max-width: 600px) {
+    .contact{
+        flex-direction: column;
+        height: auto;
+    }
+    .contact__left{
+        padding: 50px 20px;
+    }
+    .contact__right{
+        padding: 50px 20px;
+    }
+    .contact__right__top h1, .contact__left__top h1{
+        font-size: 32px;
+        font-weight: 500;
+    }
+    .contact__left__top p{
+        font-size: 16px;
+    }
+    .Contact__input label{
+        font-size: 20px;
+        font-weight: 400;
+        margin-bottom: 10px;
+    }
 }
