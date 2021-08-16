@@ -1,0 +1,32 @@
+[
+    {
+        "firstname" : "Saptarshi",
+        "lastname": "Samaddar",
+        "field": "IT",
+        "result": 75
+    },
+    {
+        "firstname" : "Prince",
+        "lastname": "Tandel",
+        "field": "Mechanical",
+        "result": 70
+    },
+    {
+        "firstname" : "Tony",
+        "lastname": "Stark",
+        "field": "Electronics",
+        "result": 80
+    },
+    {
+        "firstname" : "Mark",
+        "lastname": "Zuckerbug",
+        "field": "Computer",
+        "result": 85
+    },
+    {
+        "firstname" : "Elon",
+        "lastname": "Musk",
+        "field": "Computer",
+        "result": 84
+    }
+]
